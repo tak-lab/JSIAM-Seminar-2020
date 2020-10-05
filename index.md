@@ -62,7 +62,7 @@ https://sites.google.com/site/asukatakatsu/<br>
 [高安亮紀](https://www.risk.tsukuba.ac.jp/~takitoshi/index.html)（筑波大学）
 
 
-**更新履歴：**
+**更新履歴：**<br>
 2020.10.5 Webページの公開
 
 
