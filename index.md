@@ -45,7 +45,7 @@ C++で学ぶ精度保証付き数値計算法の初歩（仮題）
 
 **14:00 — 14:30**　　休憩
 
-**14:30 — 15:00**　　[**科学技術計算と数値解析**](http://scna.jsiam.org/)**研究部会**<br>
+**14:30 — 15:30**　　[**科学技術計算と数値解析**](http://scna.jsiam.org/)**研究部会**<br>
 高津飛鳥（都立大）<br>
 [https://sites.google.com/site/asukatakatsu/](https://sites.google.com/site/asukatakatsu/)<br>
 最適輸送理論とWasserstein幾何の入門（仮題）
