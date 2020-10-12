@@ -41,7 +41,7 @@ C++で学ぶ精度保証付き数値計算法の初歩（仮題）
 **13:00 — 14:00**　　[**行列・固有値の解法とその応用**](http://www.google.com/url?q=http%3A%2F%2Fna.cs.tsukuba.ac.jp%2Fmepa%2F&sa=D&sntz=1&usg=AFQjCNHcMyKzQgsUnB4yQgGD-XSerx0d1g)**研究部会**<br>
 今村 俊幸（理化学研究所 計算科学研究センター）<br>
 [https://www.riken.jp/research/labs/r-ccs/par_numer_comput_tech/index.html](https://www.riken.jp/research/labs/r-ccs/par_numer_comput_tech/index.html)<br>
-固有値計算等のHPCの話について、富岳の話を絡めて
+TBA
 
 **14:00 — 14:30**　　休憩
 
@@ -63,7 +63,7 @@ C++で学ぶ精度保証付き数値計算法の初歩（仮題）
 
 
 **更新履歴：**<br>
-2020.10.5 Webページの公開
+2020.10.12 Webページの公開
 
 
 **過去のセミナー：** [2019](https://na.cs.tsukuba.ac.jp/mepa/?page_id=1689) / [2018](https://sites.google.com/view/jsiam-seminar-2018/) / [2017](http://www.google.com/url?q=http%3A%2F%2Fwww.oishi.info.waseda.ac.jp%2Fseminar%2Fjsiam_seminar_2017.html&sa=D&sntz=1&usg=AFQjCNGxhw58C7tHY6ZwdPB6zyX689wZlA) / [2016](http://www.google.com/url?q=http%3A%2F%2Fwww.sr3.t.u-tokyo.ac.jp%2Fjsiam%2Fjsiamseminar20161227&sa=D&sntz=1&usg=AFQjCNHH5bHtoFQrn6vIHRLR9HZAmAV8VA) / [2015](http://www.google.com/url?q=http%3A%2F%2Fwww.sr3.t.u-tokyo.ac.jp%2Fjsiam%2Fjsiamseminar20151224&sa=D&sntz=1&usg=AFQjCNHwIl8_oIqnyNHR4MUYOH4SIB4qGw) / [2014](http://www.google.com/url?q=http%3A%2F%2Fwww.oishi.info.waseda.ac.jp%2F~3ams2014%2F&sa=D&sntz=1&usg=AFQjCNEqn6da-5pCROI9hjeovyHIh5eOFQ) / [2013](http://www.sr3.t.u-tokyo.ac.jp/jsiam/jsiamseminar20131227) / [2012](http://www.sr3.t.u-tokyo.ac.jp/jsiam/jsiamseminar20121225) / [2011](http://www.oishi.info.waseda.ac.jp/~3ams2011/) / [2010](http://www.cs.tsukuba.ac.jp/~sakurai/Seminar20101126.html) / [2009](http://www.jsiam.org/modules/eguide01/event.php?eid=63)
