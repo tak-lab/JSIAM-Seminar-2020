@@ -41,7 +41,7 @@ C++で学ぶ精度保証付き数値計算法の初歩（仮題）
 **13:00 — 14:00**　　[**行列・固有値の解法とその応用**](http://www.google.com/url?q=http%3A%2F%2Fna.cs.tsukuba.ac.jp%2Fmepa%2F&sa=D&sntz=1&usg=AFQjCNHcMyKzQgsUnB4yQgGD-XSerx0d1g)**研究部会**<br>
 今村 俊幸（理化学研究所 計算科学研究センター）<br>
 [https://www.riken.jp/research/labs/r-ccs/par_numer_comput_tech/index.html](https://www.riken.jp/research/labs/r-ccs/par_numer_comput_tech/index.html)<br>
-TBA
+「富岳」がもたらすエクサスケール数値計算環境、現状と課題
 
 **14:00 — 14:30**　　休憩
 
