@@ -54,7 +54,7 @@ C++で学ぶ精度保証付き数値計算法の初歩<br>
 高津飛鳥（都立大）<br>
 [https://sites.google.com/site/asukatakatsu/](https://sites.google.com/site/asukatakatsu/)<br>
 私的最適輸送理論-離散とユークリッドの場合-<br>
-講演資料：<br>
+講演資料：[JSIAM_takatsu.pdf](https://github.com/tak-lab/JSIAM-Seminar-2020/raw/master/JSIAM_takatsu.pdf)<br>
 （講演スライドは当日参加された方のみ限定公開予定）
 
 
