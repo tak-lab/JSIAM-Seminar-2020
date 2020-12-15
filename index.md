@@ -32,7 +32,12 @@
 **10:30 — 11:30**　　[**計算の品質**](http://www.google.com/url?q=http%3A%2F%2Fwww.oishi.info.waseda.ac.jp%2F~qoc%2F&sa=D&sntz=1&usg=AFQjCNGZvFsMR7V0dZVUuK3rMxzv8fyJ0Q)**研究部会**<br>
 関根晃太（東洋大学）<br>
 [https://271.jp/](https://271.jp/)<br>
-C++で学ぶ精度保証付き数値計算法の初歩（仮題）
+C++で学ぶ精度保証付き数値計算法の初歩<br>
+講演資料：[https://verified.computation.jp/file/seminar20201223.pdf](https://verified.computation.jp/file/seminar20201223.pdf)<br>
+講演で実演されるVCPライブラリは以下からダウンロードできます<br>
+[https://github.com/koutasekine/vcp](https://github.com/koutasekine/vcp)<br>
+[https://verified.computation.jp](https://verified.computation.jp)
+
 
 **11:30 — 13:00**　　休憩
 
@@ -48,7 +53,9 @@ C++で学ぶ精度保証付き数値計算法の初歩（仮題）
 **14:30 — 15:30**　　[**科学技術計算と数値解析**](http://scna.jsiam.org/)**研究部会**<br>
 高津飛鳥（都立大）<br>
 [https://sites.google.com/site/asukatakatsu/](https://sites.google.com/site/asukatakatsu/)<br>
-最適輸送理論とWasserstein幾何の入門（仮題）
+私的最適輸送理論-離散とユークリッドの場合-<br>
+講演資料：<br>
+（講演スライドは当日参加された方のみ限定公開予定）
 
 
 ----------
