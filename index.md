@@ -30,13 +30,15 @@
 **10:00**　　　　　　zoomセッション開場
 
 **10:30 — 11:30**　　[**計算の品質**](http://www.google.com/url?q=http%3A%2F%2Fwww.oishi.info.waseda.ac.jp%2F~qoc%2F&sa=D&sntz=1&usg=AFQjCNGZvFsMR7V0dZVUuK3rMxzv8fyJ0Q)**研究部会**<br>
-関根晃太（東洋大学）<br>
-[https://271.jp/](https://271.jp/)<br>
-C++で学ぶ精度保証付き数値計算法の初歩<br>
-講演資料：[https://verified.computation.jp/file/seminar20201223.pdf](https://verified.computation.jp/file/seminar20201223.pdf)<br>
+
+[関根 晃太](https://271.jp/)（東洋大学）<br>
+_C++で学ぶ精度保証付き数値計算法の初歩_
+
+> 講演資料：[https://verified.computation.jp/file/seminar20201223.pdf](https://verified.computation.jp/file/seminar20201223.pdf)<br>
 講演で実演されるVCPライブラリは以下からダウンロードできます<br>
 [https://github.com/koutasekine/vcp](https://github.com/koutasekine/vcp)<br>
 [https://verified.computation.jp](https://verified.computation.jp)
+
 
 
 **11:30 — 13:00**　　休憩
@@ -44,17 +46,18 @@ C++で学ぶ精度保証付き数値計算法の初歩<br>
 
 
 **13:00 — 14:00**　　[**行列・固有値の解法とその応用**](http://www.google.com/url?q=http%3A%2F%2Fna.cs.tsukuba.ac.jp%2Fmepa%2F&sa=D&sntz=1&usg=AFQjCNHcMyKzQgsUnB4yQgGD-XSerx0d1g)**研究部会**<br>
-今村 俊幸（理化学研究所 計算科学研究センター）<br>
-[https://www.riken.jp/research/labs/r-ccs/par_numer_comput_tech/index.html](https://www.riken.jp/research/labs/r-ccs/par_numer_comput_tech/index.html)<br>
-「富岳」がもたらすエクサスケール数値計算環境、現状と課題（仮題）
+
+[今村 俊幸](https://www.riken.jp/research/labs/r-ccs/par_numer_comput_tech/index.html)（理化学研究所 計算科学研究センター）<br>
+_「富岳」がもたらすエクサスケール数値計算環境、現状と課題（仮題）_
 
 **14:00 — 14:30**　　休憩
 
 **14:30 — 15:30**　　[**科学技術計算と数値解析**](http://scna.jsiam.org/)**研究部会**<br>
-高津飛鳥（都立大）<br>
-[https://sites.google.com/site/asukatakatsu/](https://sites.google.com/site/asukatakatsu/)<br>
-私的最適輸送理論-離散とユークリッドの場合-<br>
-講演資料：[JSIAM_takatsu.pdf](https://github.com/tak-lab/JSIAM-Seminar-2020/raw/master/JSIAM_takatsu.pdf)<br>
+
+[高津 飛鳥](https://sites.google.com/site/asukatakatsu/)（都立大）<br>
+_私的最適輸送理論-離散とユークリッドの場合-_
+
+>講演資料：[JSIAM_takatsu.pdf](https://github.com/tak-lab/JSIAM-Seminar-2020/raw/master/JSIAM_takatsu.pdf)<br>
 （講演スライドは当日参加された方のみ限定公開予定）
 
 
